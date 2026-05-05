@@ -1,0 +1,5 @@
+// settings.gradle
+// Mendaftarkan modul-modul yang ada dalam proyek ini
+// 'app' adalah modul utama aplikasi Android kita
+rootProject.name = "KiosKoe"
+include ':app'
