@@ -186,7 +186,7 @@ File → Invalidate Caches / Restart → Invalidate and Restart
 
 - **Nama:** Priskila Doko
 - **Institusi:** Universitas Nusa Cendana, Kupang, NTT
-- **Program:** Skripsi S1 Pendidikan Tenik Elektro
+- **Program:** Skripsi S1 Pendidikan Teknik Elektro
 - **Tahun:** 2026
 
 ---
